@@ -1,0 +1,5 @@
+reporte.html
+reporte_web/
+*.json
+__pycache__/
+*.pyc
